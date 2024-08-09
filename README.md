@@ -33,7 +33,8 @@ LSTM model is been used beacuse it takes into consideration the state of the pre
 The generated captions are compared to the actual captions from the dataset and evaluated using BLEU scores as the evaluation metrics. A score closer to 1 indicates that the predicted and actual captions are very similar. As the scores are calculated for the whole test data, we get a mean value which includes good and not so good captions.
 
 ## Output
-![image](https://github.com/user-attachments/assets/0edd8f23-bc06-4d28-85e1-0f73fed4ee1a)
+![image](https://github.com/user-attachments/assets/9c47527d-aa2c-48a0-b78b-c80d3efd3d21)
+
 
 
 
