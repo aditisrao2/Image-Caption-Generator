@@ -12,7 +12,7 @@ For this project, we are using the public dataset available at Kaggle: https://w
 
 The dataset contains around 8091 images and 5 captions for each image (5 * 8091 = 40455 captions).The zip file is approximately over 1 GB in size.
 
-## Methodolody
+## Methodology
 
 ![image](https://github.com/user-attachments/assets/8e95b17a-291e-493f-8c74-668983213cbf)
 
